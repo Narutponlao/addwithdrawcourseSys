@@ -1,4 +1,3 @@
-﻿# NodejsWebApp1
-sprint2 เพิ่มฝั่งนักศึกษาและฝั่งอาจารย์ 
-
-# addwithdrawcourseSys
+#ระบบเพิ่มถอนรายวิชานอกเวลาเรียน 
+login โดยใช้ ID รหัสนศ. password บัตรประชาชน
+โดยการดึง api จาก tu โดยใช้ nodejs
